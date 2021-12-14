@@ -1,0 +1,8 @@
+# Ignore node modules
+node_modules
+
+# Ignore the build contracts (recommended by Open Zepplin Tut)
+build/contracts
+
+# Ignore the secrets JSON
+secrets.json
